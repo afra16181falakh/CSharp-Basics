@@ -6,7 +6,7 @@ This app welcomes the user, takes input, performs a small calculation, and respo
 
 ---
 
-## 💡 What This Program Does
+##  What This Program Does
 
 - Prompts the user to enter their **name**
 - Asks for a **number input**
